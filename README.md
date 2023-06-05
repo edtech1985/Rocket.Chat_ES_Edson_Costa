@@ -28,7 +28,7 @@ Please refer to the [installation documentation](https://docs.rocket.chat/) and 
 
 ## 🚀 API Queries and Updates
 
-The following API queries and updates were performed on the Rocket.Chat server:
+The following API queries and updates were performed on the Rocket.Chat server using Postman:
 
 1. Create a new user via an API endpoint:
 
@@ -69,7 +69,7 @@ Optional integrations and setup performed:
 
 - As a cryptocurrency enthusiast and investor, I installed CryptoVert, which allows for cryptocurrency conversions.
 
-## 🚀 Results and Documentation
+## 🚀 Results and Screenshots
 The results of the technical assessment, including screenshots and actual files/collections, can be found in the [results](results/) directory of this repository.
 
 ## 🚀 Contact Information
