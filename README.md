@@ -48,5 +48,5 @@ If you have any questions or need further information, please feel free to conta
 
 Thank you for considering my submission. I hope you find the results and documentation satisfactory.
 
-[![Rocket.Chat]([https://rocket.chat/images/default/logo--dark.svg](https://logowik.com/content/uploads/images/rocketchat6948.jpg))](https://rocket.chat/)
+[![Rocket.Chat]([https://raw.githubusercontent.com/RocketChat/Rocket.Chat.Artwork/master/Logos/2020/png/logo-horizontal-red.png](https://rocket.chat/)
 
