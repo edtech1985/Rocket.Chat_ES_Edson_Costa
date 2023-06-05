@@ -1,0 +1,44 @@
+{
+    "room": {
+        "_id": "GENERAL",
+        "ts": "2023-06-02T16:59:39.782Z",
+        "t": "c",
+        "name": "general",
+        "usernames": [],
+        "msgs": 7,
+        "usersCount": 4,
+        "default": true,
+        "_updatedAt": "2023-06-05T00:50:21.933Z",
+        "lastMessage": {
+            "_id": "4JxFzhBdyfXMrFGB8",
+            "rid": "GENERAL",
+            "msg": "hello",
+            "ts": "2023-06-02T18:15:41.368Z",
+            "u": {
+                "_id": "jEZKo2nZoDCoqhPsW",
+                "username": "edtechRocketChat",
+                "name": "Edson Costa"
+            },
+            "_updatedAt": "2023-06-02T18:15:41.443Z",
+            "urls": [],
+            "mentions": [],
+            "channels": [],
+            "md": [
+                {
+                    "type": "PARAGRAPH",
+                    "value": [
+                        {
+                            "type": "PLAIN_TEXT",
+                            "value": "hello"
+                        }
+                    ]
+                }
+            ]
+        },
+        "lm": "2023-06-02T18:15:41.368Z",
+        "ro": true,
+        "avatarETag": "RT3NgPihJTvrBGEqH",
+        "avatarOrigin": "upload"
+    },
+    "success": true
+}
