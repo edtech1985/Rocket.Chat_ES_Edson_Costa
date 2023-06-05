@@ -1,0 +1,26 @@
+{
+    "user": {
+        "_id": "MhQnNFiNbZ86LBJ8H",
+        "createdAt": "2023-06-05T00:50:21.876Z",
+        "username": "TestCreateUser",
+        "emails": [
+            {
+                "address": "edson.costa@rocket.chat",
+                "verified": false
+            }
+        ],
+        "type": "user",
+        "status": "offline",
+        "active": true,
+        "__rooms": [
+            "GENERAL"
+        ],
+        "_updatedAt": "2023-06-05T00:50:22.237Z",
+        "roles": [
+            "user"
+        ],
+        "name": "CreateUserTestApi",
+        "settings": {}
+    },
+    "success": true
+}
